@@ -4,7 +4,7 @@ This is a (well its supposed to be when I'm done) website where you must guess w
 - Creator: Me
 - Coder: Me
 - Rage quitter: Gardfeld
-- My will to live: COULD NOT FIND SOURCE
+- My will to live: Answer unknown 
 - Read me file: Me
 - My depression: Really not sure
 - My zoloft: Safeway pharmacy 
