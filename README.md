@@ -1,3 +1,5 @@
+# Why gardfeld rage quit is likley to move to another url, likley nightmarebro932.github.io/whygardfeldragequit so that I can make this a hub for all my projects and fuckery with html and my tests with css, javascript, java and maybe, MAYBE some things for portal 2 like changing small aspects like the menus 
+
 # What is this?
 This is a website where you must guess why gardfeld rage quit! (https://nightmarebro932.github.io)
 # Roadmap
